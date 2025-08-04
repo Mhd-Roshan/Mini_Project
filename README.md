@@ -1,0 +1,5 @@
+# Mini_Project
+A smart QR-based fare system for buses with digital payments, trip tracking, and complaint management for Admins, Operators, and Passengers.
+The AI-Powered Smart Fare System is an intelligent and centralized platform designed to modernize fare collection in public bus transportation. By replacing traditional ticketing methods with QR code scanning and AI-driven features, the system simplifies fare management for administrators, operators, and passengers. Passengers can easily scan a QR code on the bus, select their destination, and make digital payments, while AI algorithms handle dynamic fare calculation and fraud detection in real time.
+
+This project addresses common challenges in existing fare systems such as high infrastructure cost, manual errors, lack of scalability, and limited user engagement. The solution supports secure role-based access, trip history tracking, automated fine enforcement, and a built-in complaint resolution module to enhance user experience and trust. With a lightweight tech stack and mobile-ready interface, the system is scalable, user-friendly, and ideal for deployment in smart city transit networks.
